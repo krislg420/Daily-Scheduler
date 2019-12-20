@@ -10,6 +10,12 @@ Near the top of the calendar, the application should display the current day. Ad
 
 
 
+Screen Shot:
+
+
+![](https://user-images.githubusercontent.com/57952065/71263079-ccbdfb00-2306-11ea-84c6-e60f8b1d694d.jpeg)
+
+
 This is the website to my planner.
 https://krislg420.github.io/Daily-Scheduler/
 
