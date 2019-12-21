@@ -77,6 +77,11 @@ body {
     border-top-left-radius: 35px;
     border-bottom-left-radius: 35px;
     background-color:lime;
-    
+}
+
+#task {
+   padding:20px;
 
 }
+
+ 
